@@ -50,3 +50,20 @@ num2 = input("Enter another number with a decimal")
 product = int(float(num1)) * int(float(num2))
 print("Your numbers are " + num1 + " and " + num2 + ". Their product is " + str(product))
 '''
+
+'''
+EXPRESSIONS - combo of calues, variables, operators, and calls
+to functions that need to be evaluated
+
+MATH OPERATORS
++: addition
+-: subtraction
+*: multiplication
+**: exponentian
+/, //: division (/ produces numbers in decimals [float] (EX: 2.0)), // 
+produces numbers in integers [int](EX: 2))
+%: modules (remainder) (if the first number is less than the
+second number, the answer to the modules is the first number)
+
+*8.0 + 6 is 14.0, not 14
+*print(float(6//5)) prints 1.0, not 1.2
