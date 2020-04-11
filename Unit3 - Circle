@@ -1,0 +1,13 @@
+import turtle
+turtle.color("#b30000")
+turtle.circle(50)
+turtle.right(180)
+turtle.circle(50)
+turtle.right(180)
+turtle.penup()
+turtle.forward(100)
+turtle.pendown()
+turtle.circle(50)
+turtle.right(180)
+turtle.circle(50)
+turtle.right(180)
